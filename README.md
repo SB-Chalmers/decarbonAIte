@@ -1,8 +1,10 @@
-# DecarbonAIte
+# decarbonAIte
 
 Explore building renovation packages using a Grasshopper workflow that combines energy simulation, life cycle assessment and life cycle costing.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+This renovation workflow is associated with the [decarbonAIte research project](https://research.chalmers.se/en/project/10568), funded by VINNOVA (grant 2021-02759). See [research context, people and related work](docs/research-context.md).
 
 The original documentation names **Jacob Forsberg** as author and is dated July 2023. The repository preserves the Grasshopper definition, Rhino plan, construction helper, example databases, weather file and example results from the Computational Sustainable Design collection. See [migration and provenance](docs/migration.md).
 
@@ -15,4 +17,4 @@ The original documentation names **Jacob Forsberg** as author and is dated July 
 
 Read [methods and limitations](docs/README.md), [data provenance](data/README.md), and the [original workflow guide](docs/original-readme.md). Cite using [CITATION.cff](CITATION.cff). Repository code is licensed under [MIT](LICENSE).
 
-The legacy workflow has not been executed during migration. Publication/archive links, research roles and funding remain **TODO** for the project members.
+The legacy workflow has not been executed during migration. Exact runtime versions, current software maintenance roles and archive identifiers remain **TODO** for the project members.

@@ -25,8 +25,9 @@ No automated test suite is supplied. Numerical results, geometry references, sim
 
 ## Documentation and project metadata
 
+- [Research project, funding, participants and related publication](research-context.md).
 - [Run and inspect the example](reproduce.md).
 - [Data inventory and provenance](../data/README.md).
 - [Migration and original-file manifest](migration.md).
 
-Jacob Forsberg is the author named in the original README. **TODO:** confirm current maintenance status, additional authors and agreed roles, funding, thesis/paper links, and software/data archive identifiers. [CITATION.cff](../CITATION.cff) contains only verified named authorship and repository metadata.
+Jacob Forsberg is the software author named in the original README. The [research context](research-context.md) records project participants separately from software authorship. **TODO:** confirm current maintenance status, any additional software authors and agreed roles, and software/data archive identifiers. [CITATION.cff](../CITATION.cff) preserves the original named software authorship.
