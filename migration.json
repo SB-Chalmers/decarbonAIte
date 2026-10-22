@@ -1,0 +1,164 @@
+{
+  "source_repository": "SB-Chalmers/ComputationSustainableDesign",
+  "source_commit": "7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba",
+  "migration_date": "2026-10-22",
+  "repository": "SB-Chalmers/decarbonaite",
+  "source_folders": [
+    "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/"
+  ],
+  "history": "Relevant source history retained with git-filter-repo; regenerable outputs/backups and downloadable large assets excluded.",
+  "files": [
+    {
+      "path": "230502_Wallacei_packages.gh",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/230502_Wallacei_packages.gh",
+      "status": "included",
+      "size": 298722,
+      "sha256": "f95aa9c91e79e0c1cdd950c8d1a8d51e42a7b3f5ac3a5e2cbe1df751b10ded90",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/230502_Wallacei_packages.gh",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/230502_Wallacei_packages.gh",
+      "migrated_sha256": "f95aa9c91e79e0c1cdd950c8d1a8d51e42a7b3f5ac3a5e2cbe1df751b10ded90"
+    },
+    {
+      "path": "Design_explorer.csv",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/Design_explorer.csv",
+      "status": "included",
+      "size": 12677,
+      "sha256": "351a4fe4f315ffde816e3560464c31623cd92487aae7cab3ad2ed23367fa352a",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/Design_explorer.csv",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/Design_explorer.csv",
+      "migrated_sha256": "351a4fe4f315ffde816e3560464c31623cd92487aae7cab3ad2ed23367fa352a"
+    },
+    {
+      "path": "HB_combinematerials.py",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/HB_combinematerials.py",
+      "status": "included",
+      "size": 6344,
+      "sha256": "9bb50975cf530bb8fbfc597a022c1b00f1dc872e7b04805cc1c0931ddd75da54",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/HB_combinematerials.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/HB_combinematerials.py",
+      "migrated_sha256": "9bb50975cf530bb8fbfc597a022c1b00f1dc872e7b04805cc1c0931ddd75da54"
+    },
+    {
+      "path": "docs/original-readme.md",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/README.md",
+      "status": "included",
+      "size": 4649,
+      "sha256": "3b914362cc2e7e5c18b87f44de14411c6c678c5e08aca7f8c6b59afc715aa018",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/README.md",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/README.md",
+      "documentation_relocated": true,
+      "documentation_links_updated": true,
+      "migrated_sha256": "b8a3349b3ca5e0298911937ab9f9fb7af455d7ba1bb25d01b7d0052640b914c3"
+    },
+    {
+      "path": "Uddevalla2017EPWv2.epw",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/Uddevalla2017EPWv2.epw",
+      "status": "included",
+      "size": 1543872,
+      "sha256": "a9e25d4d62428bf4169586a78c2483bb4678c150441aa8f09f013f379297e4a0",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/Uddevalla2017EPWv2.epw",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/Uddevalla2017EPWv2.epw",
+      "migrated_sha256": "a9e25d4d62428bf4169586a78c2483bb4678c150441aa8f09f013f379297e4a0"
+    },
+    {
+      "path": "construction_DB.csv",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/construction_DB.csv",
+      "status": "included",
+      "size": 482,
+      "sha256": "91a0c459f94558379ae9544f88d1c5fbd67030d9aa5aedd49eb61302ed4c7cc6",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/construction_DB.csv",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/construction_DB.csv",
+      "migrated_sha256": "91a0c459f94558379ae9544f88d1c5fbd67030d9aa5aedd49eb61302ed4c7cc6"
+    },
+    {
+      "path": "mat_DB4.csv",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/mat_DB4.csv",
+      "status": "included",
+      "size": 956,
+      "sha256": "be5c4c4a17879cca606f39a2b6ce962fd69fb38f276dad5de6410ec2accceca7",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/mat_DB4.csv",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/mat_DB4.csv",
+      "migrated_sha256": "be5c4c4a17879cca606f39a2b6ce962fd69fb38f276dad5de6410ec2accceca7"
+    },
+    {
+      "path": "media/calculation.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/calculation.PNG",
+      "status": "included",
+      "size": 182212,
+      "sha256": "3bc0f1914f33670d96f029cc245da98b9ad636407a320183370c11f78b792466",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/calculation.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/calculation.PNG",
+      "migrated_sha256": "3bc0f1914f33670d96f029cc245da98b9ad636407a320183370c11f78b792466"
+    },
+    {
+      "path": "media/colibri_ite.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/colibri_ite.PNG",
+      "status": "included",
+      "size": 153964,
+      "sha256": "e173c8d567a67edb63f7a9119b3823e02d4cc74d9547fca46a694e1e26e6bac8",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/colibri_ite.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/colibri_ite.PNG",
+      "migrated_sha256": "e173c8d567a67edb63f7a9119b3823e02d4cc74d9547fca46a694e1e26e6bac8"
+    },
+    {
+      "path": "media/combination.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/combination.PNG",
+      "status": "included",
+      "size": 130231,
+      "sha256": "5da1b1541d504a0e27467b918e55b95e6240d38e4e6fb9ffe3e7e003032596ae",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/combination.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/combination.PNG",
+      "migrated_sha256": "5da1b1541d504a0e27467b918e55b95e6240d38e4e6fb9ffe3e7e003032596ae"
+    },
+    {
+      "path": "media/designexplorer.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/designexplorer.PNG",
+      "status": "included",
+      "size": 241832,
+      "sha256": "adee71f80a19e4a304709827aed8533089cd141da0dc1c5e87ebbe8d68f260b1",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/designexplorer.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/designexplorer.PNG",
+      "migrated_sha256": "adee71f80a19e4a304709827aed8533089cd141da0dc1c5e87ebbe8d68f260b1"
+    },
+    {
+      "path": "media/file_input.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/file_input.PNG",
+      "status": "included",
+      "size": 39516,
+      "sha256": "e01b7e801a4e93ef668868854a1ffdae9c375b52af36db9fef4c267ced97b5d1",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/file_input.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/file_input.PNG",
+      "migrated_sha256": "e01b7e801a4e93ef668868854a1ffdae9c375b52af36db9fef4c267ced97b5d1"
+    },
+    {
+      "path": "media/materials.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/materials.PNG",
+      "status": "included",
+      "size": 156656,
+      "sha256": "137a040343eb283928b9a6b8a325ff5197fc89d4123af58b9a6dc5aeb447c77e",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/materials.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/materials.PNG",
+      "migrated_sha256": "137a040343eb283928b9a6b8a325ff5197fc89d4123af58b9a6dc5aeb447c77e"
+    },
+    {
+      "path": "media/openstudio.PNG",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/openstudio.PNG",
+      "status": "included",
+      "size": 152764,
+      "sha256": "19022a917bbd49bf89487040ca5e24df28dff02c267db6f203f8fa6ad152f7ad",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/openstudio.PNG",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/media/openstudio.PNG",
+      "migrated_sha256": "19022a917bbd49bf89487040ca5e24df28dff02c267db6f203f8fa6ad152f7ad"
+    },
+    {
+      "path": "plan.3dm",
+      "source_path": "Grasshopper Scripts/DecarbonAIte_LCA_LCC_Optimizer/plan.3dm",
+      "status": "included",
+      "size": 202983,
+      "sha256": "20acc6c1e9f22bd189ea566c89aec720a28b76c6b6b0852d6a54371f19da2454",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/plan.3dm",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/DecarbonAIte_LCA_LCC_Optimizer/plan.3dm",
+      "migrated_sha256": "20acc6c1e9f22bd189ea566c89aec720a28b76c6b6b0852d6a54371f19da2454"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository and identify the commit used."
+title: "DecarbonAIte"
+type: software
+authors:
+  - family-names: "Forsberg"
+    given-names: "Jacob"
+repository-code: "https://github.com/SB-Chalmers/decarbonaite"
+license: MIT
+abstract: "Legacy Grasshopper workflow for exploring building renovation packages with energy simulation, life cycle assessment and life cycle costing."

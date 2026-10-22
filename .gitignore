@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Keep large or regenerable outputs outside Git. Small examples may be tracked separately.
+/data/raw/
+/data/processed/
+/data/generated/
+/outputs/
